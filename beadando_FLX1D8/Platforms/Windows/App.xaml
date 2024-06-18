@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="beadando_FLX1D8.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:beadando_FLX1D8.WinUI">
+
+</maui:MauiWinUIApplication>
